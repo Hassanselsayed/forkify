@@ -10,8 +10,6 @@ import addRecipeView from './views/addRecipeView';
 import 'core-js/stable'; // polyfill
 import 'regenerator-runtime/runtime'; // polyfill async/await
 
-// https://forkify-api.herokuapp.com/v2
-
 ///////////////////////////////////////
 const controlRecipes = async function () {
   try {
