@@ -1,9 +1,8 @@
-// $color-primary: #f59a83;
 $color-primary: #f38e82;
 $color-grad-1: #fbdb89;
 $color-grad-2: #f48982;
 
-$color-grey-light-1: lightgray; // Light background
+$color-grey-light-1: #f9f5f3; // Light background
 $color-grey-light-2: #f2efee; // Light lines
 $color-grey-light-3: #d3c7c3; // Light text (placeholder)
 $color-grey-dark-1: #615551; // Normal text
@@ -45,6 +44,25 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   min-height: calc(100vh - 2 * 4vw);
+}
+
+.screen-prompt {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 0 20px;
+
+  @media only screen and (min-width: 800px) {
+    display: none;
+  }
+}
+
+.site-container {
+  @media only screen and (max-width: 800px) {
+    display: none;
+  }
 }
 
 .container {

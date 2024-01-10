@@ -2,19 +2,14 @@
 
 (Project API)[https://forkify-api.herokuapp.com/v2]
 
+
+## Stretch Goals
+
 Features to add
 
 1. shopping list feature: button on recipe to add ingredients to a list
 2. weekly meal planning feature: assign recipes to the next 7 days and show on a weekly calendar
 3. get nutrition data on each ingredient from spoonacular API and calculate total calories of recipe. (API)[https://spoonacular.com/food-api]
-
-Documentation to add
-
-1. add JS Docs to all important functions
-
-Bugs to fix
-
-1. make responsive
 
 UI/UX improvements
 
