@@ -4,7 +4,7 @@ This project was developed during a JavaScript course I took with [Jonas Schmedt
 
 Here are some of the skills learned in the project:
 1. Model View Controller (MVC) Architecture
-2. Searching for a recipe in an (API)[https://forkify-api.herokuapp.com/v2]
+2. Searching for a recipe in an [API](https://forkify-api.herokuapp.com/v2)
 3. Loading (getting) a recipe from an API
 4. Implementing pagination
 5. Implementing bookmarks
